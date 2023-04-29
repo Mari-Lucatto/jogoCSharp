@@ -1,0 +1,104 @@
+C:\Users\Aluno\Documents\SharpDevelop Projects\Tabuleiro\Tabuleiro\bin\Debug\Tabuleiro.exe
+C:\Users\Aluno\Documents\SharpDevelop Projects\Tabuleiro\Tabuleiro\bin\Debug\Tabuleiro.pdb
+C:\Users\Aluno\Documents\SharpDevelop Projects\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\SharpDevelop Projects\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.MainForm.resources
+C:\Users\Aluno\Documents\SharpDevelop Projects\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.csproj.GenerateResource.Cache
+C:\Users\Aluno\Documents\SharpDevelop Projects\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.exe
+C:\Users\Aluno\Documents\SharpDevelop Projects\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.pdb
+C:\Users\Aluno\Documents\SharpDevelop Projects\Kirby_game\Tabuleiro\bin\Debug\Tabuleiro.exe
+C:\Users\Aluno\Documents\SharpDevelop Projects\Kirby_game\Tabuleiro\bin\Debug\Tabuleiro.pdb
+C:\Users\Aluno\Documents\SharpDevelop Projects\Kirby_game\Tabuleiro\obj\Debug\Tabuleiro.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\SharpDevelop Projects\Kirby_game\Tabuleiro\obj\Debug\Tabuleiro.MainForm.resources
+C:\Users\Aluno\Documents\SharpDevelop Projects\Kirby_game\Tabuleiro\obj\Debug\Tabuleiro.csproj.GenerateResource.Cache
+C:\Users\Aluno\Documents\SharpDevelop Projects\Kirby_game\Tabuleiro\obj\Debug\Tabuleiro.exe
+C:\Users\Aluno\Documents\SharpDevelop Projects\Kirby_game\Tabuleiro\obj\Debug\Tabuleiro.pdb
+C:\Users\gkirb\OneDrive\Documentos\SharpDevelop Projects\Kirby_game\Tabuleiro\bin\Debug\Tabuleiro.exe
+C:\Users\gkirb\OneDrive\Documentos\SharpDevelop Projects\Kirby_game\Tabuleiro\bin\Debug\Tabuleiro.pdb
+C:\Users\gkirb\OneDrive\Documentos\SharpDevelop Projects\Kirby_game\Tabuleiro\obj\Debug\Tabuleiro.csprojResolveAssemblyReference.cache
+C:\Users\gkirb\OneDrive\Documentos\SharpDevelop Projects\Kirby_game\Tabuleiro\obj\Debug\Tabuleiro.MainForm.resources
+C:\Users\gkirb\OneDrive\Documentos\SharpDevelop Projects\Kirby_game\Tabuleiro\obj\Debug\Tabuleiro.csproj.GenerateResource.Cache
+C:\Users\gkirb\OneDrive\Documentos\SharpDevelop Projects\Kirby_game\Tabuleiro\obj\Debug\Tabuleiro.exe
+C:\Users\gkirb\OneDrive\Documentos\SharpDevelop Projects\Kirby_game\Tabuleiro\obj\Debug\Tabuleiro.pdb
+C:\Users\Aluno\Desktop\Kirby_game\Tabuleiro\bin\Debug\Tabuleiro.exe
+C:\Users\Aluno\Desktop\Kirby_game\Tabuleiro\bin\Debug\Tabuleiro.pdb
+C:\Users\Aluno\Desktop\Kirby_game\Tabuleiro\obj\Debug\Tabuleiro.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Kirby_game\Tabuleiro\obj\Debug\Tabuleiro.MainForm.resources
+C:\Users\Aluno\Desktop\Kirby_game\Tabuleiro\obj\Debug\Tabuleiro.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Kirby_game\Tabuleiro\obj\Debug\Tabuleiro.exe
+C:\Users\Aluno\Desktop\Kirby_game\Tabuleiro\obj\Debug\Tabuleiro.pdb
+C:\Users\Aluno\Downloads\Kirby_game\Tabuleiro\bin\Debug\Tabuleiro.exe
+C:\Users\Aluno\Downloads\Kirby_game\Tabuleiro\bin\Debug\Tabuleiro.pdb
+C:\Users\Aluno\Downloads\Kirby_game\Tabuleiro\obj\Debug\Tabuleiro.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Downloads\Kirby_game\Tabuleiro\obj\Debug\Tabuleiro.MainForm.resources
+C:\Users\Aluno\Downloads\Kirby_game\Tabuleiro\obj\Debug\Tabuleiro.csproj.GenerateResource.Cache
+C:\Users\Aluno\Downloads\Kirby_game\Tabuleiro\obj\Debug\Tabuleiro.exe
+C:\Users\Aluno\Downloads\Kirby_game\Tabuleiro\obj\Debug\Tabuleiro.pdb
+G:\Jogo\Kirby_game_v2\Tabuleiro\obj\Debug\Tabuleiro.csprojResolveAssemblyReference.cache
+G:\Jogo\Kirby_game_v2\Tabuleiro\obj\Debug\Tabuleiro.MainForm.resources
+G:\Jogo\Kirby_game_v2\Tabuleiro\obj\Debug\Tabuleiro.csproj.GenerateResource.Cache
+G:\Jogo\Kirby_game_v2\Tabuleiro\obj\Debug\Tabuleiro.exe
+G:\Jogo\Kirby_game_v2\Tabuleiro\bin\Debug\Tabuleiro.exe
+G:\Jogo\Kirby_game_v2\Tabuleiro\bin\Debug\Tabuleiro.pdb
+G:\Jogo\Kirby_game_v2\Tabuleiro\obj\Debug\Tabuleiro.pdb
+G:\Jogo\Kirby_game_v3\Tabuleiro\bin\Debug\Tabuleiro.exe
+G:\Jogo\Kirby_game_v3\Tabuleiro\bin\Debug\Tabuleiro.pdb
+G:\Jogo\Kirby_game_v3\Tabuleiro\obj\Debug\Tabuleiro.csprojResolveAssemblyReference.cache
+G:\Jogo\Kirby_game_v3\Tabuleiro\obj\Debug\Tabuleiro.MainForm.resources
+G:\Jogo\Kirby_game_v3\Tabuleiro\obj\Debug\Tabuleiro.csproj.GenerateResource.Cache
+G:\Jogo\Kirby_game_v3\Tabuleiro\obj\Debug\Tabuleiro.exe
+G:\Jogo\Kirby_game_v3\Tabuleiro\obj\Debug\Tabuleiro.pdb
+C:\Users\gkirb\OneDrive\Documentos\Kirby_game_v4\Tabuleiro\bin\Debug\Tabuleiro.exe
+C:\Users\gkirb\OneDrive\Documentos\Kirby_game_v4\Tabuleiro\bin\Debug\Tabuleiro.pdb
+C:\Users\gkirb\OneDrive\Documentos\Kirby_game_v4\Tabuleiro\obj\Debug\Tabuleiro.csprojResolveAssemblyReference.cache
+C:\Users\gkirb\OneDrive\Documentos\Kirby_game_v4\Tabuleiro\obj\Debug\Tabuleiro.MainForm.resources
+C:\Users\gkirb\OneDrive\Documentos\Kirby_game_v4\Tabuleiro\obj\Debug\Tabuleiro.csproj.GenerateResource.Cache
+C:\Users\gkirb\OneDrive\Documentos\Kirby_game_v4\Tabuleiro\obj\Debug\Tabuleiro.exe
+C:\Users\gkirb\OneDrive\Documentos\Kirby_game_v4\Tabuleiro\obj\Debug\Tabuleiro.pdb
+G:\Jogo\Kirby_game_v5\Tabuleiro\bin\Debug\Tabuleiro.exe
+G:\Jogo\Kirby_game_v5\Tabuleiro\bin\Debug\Tabuleiro.pdb
+G:\Jogo\Kirby_game_v5\Tabuleiro\obj\Debug\Tabuleiro.csprojResolveAssemblyReference.cache
+G:\Jogo\Kirby_game_v5\Tabuleiro\obj\Debug\Tabuleiro.MainForm.resources
+G:\Jogo\Kirby_game_v5\Tabuleiro\obj\Debug\Tabuleiro.csproj.GenerateResource.Cache
+G:\Jogo\Kirby_game_v5\Tabuleiro\obj\Debug\Tabuleiro.exe
+G:\Jogo\Kirby_game_v5\Tabuleiro\obj\Debug\Tabuleiro.pdb
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v6\Tabuleiro\bin\Debug\Tabuleiro.exe
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v6\Tabuleiro\bin\Debug\Tabuleiro.pdb
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v6\Tabuleiro\obj\Debug\Tabuleiro.csprojResolveAssemblyReference.cache
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v6\Tabuleiro\obj\Debug\Tabuleiro.MainForm.resources
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v6\Tabuleiro\obj\Debug\Tabuleiro.csproj.GenerateResource.Cache
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v6\Tabuleiro\obj\Debug\Tabuleiro.exe
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v6\Tabuleiro\obj\Debug\Tabuleiro.pdb
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v6\Tabuleiro\obj\Debug\Tabuleiro.FormSobeNivel.resources
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v7\Tabuleiro\bin\Debug\Tabuleiro.exe
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v7\Tabuleiro\bin\Debug\Tabuleiro.pdb
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v7\Tabuleiro\obj\Debug\Tabuleiro.csprojResolveAssemblyReference.cache
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v7\Tabuleiro\obj\Debug\Tabuleiro.FormSobeNivel.resources
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v7\Tabuleiro\obj\Debug\Tabuleiro.MainForm.resources
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v7\Tabuleiro\obj\Debug\Tabuleiro.csproj.GenerateResource.Cache
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v7\Tabuleiro\obj\Debug\Tabuleiro.exe
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v7\Tabuleiro\obj\Debug\Tabuleiro.pdb
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v7\Tabuleiro\obj\Debug\Tabuleiro.FormStory.resources
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v7\Tabuleiro\obj\Debug\Tabuleiro.FormGameOver.resources
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v7\Tabuleiro\obj\Debug\Tabuleiro.FormTheEnd.resources
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v8\Tabuleiro\bin\Debug\Tabuleiro.exe
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v8\Tabuleiro\bin\Debug\Tabuleiro.pdb
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v8\Tabuleiro\obj\Debug\Tabuleiro.csprojResolveAssemblyReference.cache
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v8\Tabuleiro\obj\Debug\Tabuleiro.FormGameOver.resources
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v8\Tabuleiro\obj\Debug\Tabuleiro.FormSobeNivel.resources
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v8\Tabuleiro\obj\Debug\Tabuleiro.FormStory.resources
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v8\Tabuleiro\obj\Debug\Tabuleiro.FormTheEnd.resources
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v8\Tabuleiro\obj\Debug\Tabuleiro.MainForm.resources
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v8\Tabuleiro\obj\Debug\Tabuleiro.csproj.GenerateResource.Cache
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v8\Tabuleiro\obj\Debug\Tabuleiro.exe
+C:\Users\gkirb\OneDrive\Área de Trabalho\Kirby_game_v8\Tabuleiro\obj\Debug\Tabuleiro.pdb
+C:\Users\Odete\Desktop\ETEC\2º ano E.M\DS\Kirby_game_FINAL\Tabuleiro\bin\Debug\Tabuleiro.exe
+C:\Users\Odete\Desktop\ETEC\2º ano E.M\DS\Kirby_game_FINAL\Tabuleiro\bin\Debug\Tabuleiro.pdb
+C:\Users\Odete\Desktop\ETEC\2º ano E.M\DS\Kirby_game_FINAL\Tabuleiro\obj\Debug\Tabuleiro.csprojResolveAssemblyReference.cache
+C:\Users\Odete\Desktop\ETEC\2º ano E.M\DS\Kirby_game_FINAL\Tabuleiro\obj\Debug\Tabuleiro.FormGameOver.resources
+C:\Users\Odete\Desktop\ETEC\2º ano E.M\DS\Kirby_game_FINAL\Tabuleiro\obj\Debug\Tabuleiro.FormSobeNivel.resources
+C:\Users\Odete\Desktop\ETEC\2º ano E.M\DS\Kirby_game_FINAL\Tabuleiro\obj\Debug\Tabuleiro.FormStory.resources
+C:\Users\Odete\Desktop\ETEC\2º ano E.M\DS\Kirby_game_FINAL\Tabuleiro\obj\Debug\Tabuleiro.FormTheEnd.resources
+C:\Users\Odete\Desktop\ETEC\2º ano E.M\DS\Kirby_game_FINAL\Tabuleiro\obj\Debug\Tabuleiro.MainForm.resources
+C:\Users\Odete\Desktop\ETEC\2º ano E.M\DS\Kirby_game_FINAL\Tabuleiro\obj\Debug\Tabuleiro.csproj.GenerateResource.Cache
+C:\Users\Odete\Desktop\ETEC\2º ano E.M\DS\Kirby_game_FINAL\Tabuleiro\obj\Debug\Tabuleiro.exe
+C:\Users\Odete\Desktop\ETEC\2º ano E.M\DS\Kirby_game_FINAL\Tabuleiro\obj\Debug\Tabuleiro.pdb
